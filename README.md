@@ -1,3 +1,3 @@
 # SimpleTelegramBot
 Telegram
-https://t.me/@By_Erlan_Sultan_bot
+https://t.me/By_Erlan_Sultan_bot
